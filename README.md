@@ -27,9 +27,9 @@ By analyzing census data, this project identifies significant features that cont
    - **Non-linear Relationships**: Some relationships between features and income are non-linear, requiring more advanced modeling techniques like ensemble methods.
    - **Correlation**: Certain features, such as education and occupation, exhibit multicollinearity, which could affect model interpretability.
 
-### Recommendations
+### Conclusions
 
-Based on the analysis, the following recommendations are proposed:
+Based on the analysis, the following conclusions are made:
 
 - **Feature Engineering**: Additional feature engineering, such as creating interaction terms between education and occupation, may further improve the model’s accuracy.
 - **Model Optimization**: Hyperparameter tuning of models like Random Forest or Gradient Boosting could yield better predictive power.
